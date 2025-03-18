@@ -1,0 +1,25 @@
+ 
+internalHistory
+salir
+comandos
+mostrarInfo
+monitor
+slir
+salir
+comandos
+salir
+comandos
+nano PruebaBash.sh
+mostrarPID
+mostrarPID
+crearProceso
+mostrarPID
+matarProceso
+salir
+comandos
+crearProceso
+crearProceso
+matarProceso
+mostrarPID
+matarProceso
+salir
