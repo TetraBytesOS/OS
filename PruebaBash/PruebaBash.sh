@@ -1,4 +1,5 @@
 #!/bin/bash
+chmod +x ~/PruebaBash/PruebaBash.sh
 history -r ~/.bash_history
 clear
 echo -e "\e[1;7;5;31;42m"
