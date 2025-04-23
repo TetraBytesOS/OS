@@ -25,7 +25,7 @@ public class Tamagochi implements ModificaVentana{
 				ReproductorSonido.reproducir("/univerisdadProgramacion/sonidos/09.-All-Star.wav");
 			}
 		};
-		miTimer.schedule(task, 0, 199000);
+		miTimer.schedule(task, 0, 120000);
 	}
 
 		
