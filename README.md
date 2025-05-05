@@ -9,7 +9,7 @@ Additionally, this game contains strong language and potentially offensive conte
 
 If you want to suffer, you´re welcome. We recomend you to turn up your volume for full experience because with this infernal dekstop you will have 
 audio jumpsacres. Moreover you have two misterious buttons, but we bring forward that one of them opens an interactive shell that includes the basic 
-linux comands besides some extra ones;)
+linux comands besides some extra ones ;)
 
 ## Requirements
 
